@@ -13,9 +13,7 @@ client = commands.Bot(command_prefix='/', intents=Intents.all())
 @client.slash_command(name="cadastro", description='Criar, Editar ou Excluir o Cadastro')
 async def cadastro(inter):
     
-
-
-
+    
 @client.slash_command(name="teste", description='testando slash UHUHUUUU!!')
 async def teste(inter):
 
