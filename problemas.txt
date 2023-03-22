@@ -1,0 +1,26 @@
+LISTA DE PROBLEMAS E POSSÍVEIS IMPECILIOS NO DESENVOLVIMENTO DO PONDU:
+
+Discord:
+- Má implementação; 
+    Poucos usuários;
+- 
+
+Telegram:
+- Fazer o bot;
+    Menor quantidade de informação sobre a API na internet;
+- 
+
+Chat Próprio:
+- Má implementação; 
+    Poucos usuários;
+    Vinculo do chat à Unasp;
+- Risco de Inutilização e Esfprço Desnecessário;
+
+Gerais:
+- Demora de procesamento, devido a restrição de acesso ao Canvas;
+- Mostrar prazo restante das tarefas;
+- Usar o WhatsApp;
+    API muito cara;
+- Hospedar em um Servidor Online (de graça);
+- 
+- 
