@@ -33,7 +33,7 @@ def atnd(context):
 conexao = mysql.connector.connect( # ---> banco de dados
     host='localhost',
     user='root',
-    password='arratiuGui395@g',
+    password='Pondu054',
     database='pondusql'
 )
 cursor = conexao.cursor() # ---> bando de dados
