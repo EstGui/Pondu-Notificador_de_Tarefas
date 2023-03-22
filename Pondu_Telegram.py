@@ -27,7 +27,7 @@ bot = telebot.TeleBot(tele_key)
 conexao = mysql.connector.connect( # ---> banco de dados
     host='localhost',
     user='root',
-    password='arratiuGui395@g',
+    password='********',
     database='pondusql'
 )
 cursor = conexao.cursor() # ---> bando de dados
