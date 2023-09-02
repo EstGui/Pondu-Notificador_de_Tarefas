@@ -519,4 +519,4 @@ async def on_ready():
 async def on_member_join(member):
     await client.get_channel(1070412395043880990).send(f'Bem Vindo(a) ao **{member.guild.name}**, {member.mention}')
 
-client.run('MTA2NzU0MTUzNDQxMDU1OTU2MA.GQw7HV.i0F-dH2dMoN9MRKlgNfMAeaWa_dQDsW3vJoBbI')
+client.run('TOKEN DO BOT AQUI')
